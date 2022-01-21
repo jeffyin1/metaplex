@@ -1,0 +1,44 @@
+{
+  "name": "NFT 0-Alpha",
+  "symbol": "",
+  "description": "Celebratory Solflare NFT for the Solflare X launch",
+  "seller_fee_basis_points": 500,
+  "image": "image.png",
+  "attributes": [
+    {
+      "trait_type": "Str",
+      "value": "100"
+    },
+    {
+      "trait_type": "Head",
+      "value": "circle"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "noodle"
+   },
+   {
+      "trait_type": "Leve1",
+      "value": "1"
+    }
+  ],
+  "collection": {
+     "name": "NFT Collection",
+     "family": "NFT family"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "5g66nv9DQMRpxJeouFGr1497g4jVdnXeLowawzbkXxjb",
+        "share": 100
+      }
+    ]
+  }
+}

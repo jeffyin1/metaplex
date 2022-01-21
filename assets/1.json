@@ -1,0 +1,44 @@
+{
+  "name": "NFT 1-Bate",
+  "symbol": "",
+  "description": "Celebratory Solflare NFT for the Solflare X launch",
+  "seller_fee_basis_points": 500,
+  "image": "image.png",
+  "attributes": [
+    {
+      "trait_type": "Str",
+      "value": "1"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mico"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Bow"
+   },
+   {
+      "trait_type": "Leve1",
+      "value": "2"
+    }
+  ],
+  "collection": {
+     "name": "NFT Collection",
+     "family": "NFT family"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "5g66nv9DQMRpxJeouFGr1497g4jVdnXeLowawzbkXxjb",
+        "share": 100
+      }
+    ]
+  }
+}
